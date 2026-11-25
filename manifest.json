@@ -9,18 +9,19 @@
     "version": "3.12.4",
     "package_manager": {
       "name": "pip",
-      "version": "26.2.1",
+      "version": "26.1.2",
       "package_file": "requirements.txt"
     }
   },
   "files": {
     "requirements.txt": {
-      "checksum": "df2757e2069346b5e29bb639873573ce"
+      "checksum": "6f27eb725f240432ab1da2b4459ebefe"
     },
     "app.py": {
       "checksum": "3912f55b42bf6b1cec545cfd6a9b4b1d"
+    },
+    "manifest1.json": {
+      "checksum": "583e951ff0fd0e78996c48499015aa2e"
     }
   }
 }
-
-
